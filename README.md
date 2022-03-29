@@ -3,7 +3,8 @@ Download videos from Tik Tok and Youtube with a choice of quality
 
 ![yt-dlp-gui](https://boev.dev/yt-dlp-gui-v2.jpg "yt-dlp-gui")  
   
-## The project is being built through Visual Studio 2022  
+## How to build project?  
+Use Visual Studio 2022  
   
 # Dependencies:
 - [YT-DLP](https://github.com/yt-dlp/yt-dlp)
